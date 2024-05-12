@@ -1,5 +1,5 @@
 # EDOS_Classification_using_Bi-LSTM
-This is the course project os Natural Language Processing (CSE440 - NLP II) from BRAC University in which I solved the classification problem of Explanatory Detection of Online Sexism (EDOS).
+This is the course project of Natural Language Processing (CSE440 - NLP II) from BRAC University in which I solved the classification problem of Explanatory Detection of Online Sexism (EDOS).
 
 In this NLP project we did two tasks Task A and Task B.
 Task A solves the binary online sexism that is Sexism or Not Sexism whereas Task B solves 4 class classifications of EDOS i.e. Threats, Derogation, Animosity & Prejudiced Discussion. 
