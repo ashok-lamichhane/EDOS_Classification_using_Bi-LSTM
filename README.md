@@ -6,4 +6,4 @@ Task A solves the binary online sexism that is Sexism or Not Sexism whereas Task
 
 Here we got Accuracy and F1-score 82% for Task A and For Task B accuracy is 55% whereas F1-score is 49%.
 
-You can access training dataset [here](https://drive.google.com/file/d/107gOBmxc7yFTUWHHHnnCjnPwBY2yu2f-/view?usp=drive_link), the GloVe embedding file [here]() and the project report [here](https://drive.google.com/file/d/14sNxGUg3lf1fWgypa80uEzEWJiQqduQC/view?usp=drive_link).
+You can access training dataset [here](https://drive.google.com/file/d/107gOBmxc7yFTUWHHHnnCjnPwBY2yu2f-/view?usp=drive_link), the GloVe embedding file [here](https://drive.google.com/file/d/1nUyDjOKjmS57b1boV_mgTQ9i763dJzpC/view?usp=drive_link) and the project report [here](https://drive.google.com/file/d/14sNxGUg3lf1fWgypa80uEzEWJiQqduQC/view?usp=drive_link).
